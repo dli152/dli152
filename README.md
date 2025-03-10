@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @davidli121
-- 👀 I’m interested in cars
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me david.changru@gmail.com
+- 👀 I’m interested in motorcycles and skiing
+- 🌱 I’m currently learning the Win32 API
+- 💞️ I’m looking to collaborate on everything
+- 📫 How to reach me dav.li2016@hotmail.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I'm 11 and I started programming in javascript when I was 10
+- ⚡ Fun fact: I started getting into programming when I was 8 learning JS
 
 <!---
 davidli121/davidli121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
