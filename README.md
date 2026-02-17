@@ -6,3 +6,5 @@
 - 📫 How to reach me dav.li2016@hotmail.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I'm an adrenaline addict
+- Windows is better than any Linux distro
+- I like CoD
