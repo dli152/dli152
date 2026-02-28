@@ -1,3 +1,3 @@
 hi
-i am human
-i am not alien
+i is human
+i is not alien
